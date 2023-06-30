@@ -21,5 +21,5 @@ similar to that explained in the Load command.
 
 [SampleRun](https://drive.google.com/drive/folders/1AFo3RzKQO7rl3ah9jOZOyTCAVhCar8t0) - please Click the Link
 
-Authors: saif mohamed , Rana zayed , Omar essam, Carin Samy
-Authors: saif mohamed , [Rana zayed](https://github.com/RanaZay) , Omar essam, Carin Samy
+
+Authors: [saif mohamed](https://github.com/SaifSeddik) , [Rana zayed](https://github.com/RanaZay) , Omar essam, Carin Samy
