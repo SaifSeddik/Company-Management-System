@@ -18,6 +18,7 @@ name
 last name or salary or Date of Birth.
 * **SAVE:** Save the employees data by writing them out to same file in a format
 similar to that explained in the Load command.
+* **Data Validation:** the system verifies all the data entered to the system and if there is an error the system asks the user to reenter it  
 
 [SampleRun](https://drive.google.com/drive/folders/1AFo3RzKQO7rl3ah9jOZOyTCAVhCar8t0) - please Click the Link
 
